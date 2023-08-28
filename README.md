@@ -1,2 +1,2 @@
 # jupyterWorkflow
-Jupiter Sharpe Ratio
+Jupiter workflow projects
